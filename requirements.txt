@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=1.4
+asyncpg
+python-dotenv
+telethon
+aiogram==3.0.0b6
+httpx
