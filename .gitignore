@@ -1,33 +1,26 @@
-# Python
 __pycache__/
 *.py[cod]
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
+*$py.class
 
-# Virtualenv
 .venv/
 env/
 venv/
-ENV/
 
-# IDE
-.idea/
+*.session
+*.session-journal
+
+*.db
+*.sqlite3
+
 .vscode/
+.idea/
 
-# OS
+*.log
+
+.env
+*.env
+
+docker-compose.override.yml
+
 .DS_Store
 Thumbs.db
-
-# State files
-reposter_state.json
-*.tmp
-
-# dotenv
-.env
-
-docker-compose.yml
-TGScanner.session
-
