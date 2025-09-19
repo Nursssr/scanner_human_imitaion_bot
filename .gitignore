@@ -27,3 +27,7 @@ reposter_state.json
 
 # dotenv
 .env
+
+docker-compose.yml
+TGScanner.session
+
