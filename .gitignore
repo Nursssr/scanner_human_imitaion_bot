@@ -16,10 +16,10 @@ venv/
 .idea/
 
 *.log
-reposter_state.json
+
 .env
 *.env
-
+*.json
 docker-compose.override.yml
 
 .DS_Store
